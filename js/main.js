@@ -53,7 +53,7 @@ $(document).ready(function() {
     //     container.classList.remove("right-panel-active");
     // });
 
-  //  setTimeout(loadingAnimation, 5000);
+ setTimeout(loadingAnimation, 5000);
 
 });
 
